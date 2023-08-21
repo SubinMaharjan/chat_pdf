@@ -3,6 +3,8 @@
 
 Upload your document and ask your queries related to document to get your answer. This application uses langchain to search within your document and OPENAI's gpt-3.5-turbo to process and response your queries.
 
+![Demo](./public/demo.gif)
+
 ## Run Locally
 
 Export OPENAI API KEY
